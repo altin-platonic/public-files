@@ -1,0 +1,11 @@
+{
+
+  “name”: “Solana Plato BTC  Token”,
+
+  “symbol”: “SPBTC”,
+
+  “description”: “Example token.”,
+
+  “image”: “https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png”
+
+}
